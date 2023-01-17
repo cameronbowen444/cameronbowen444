@@ -12,10 +12,10 @@ Currently Profienct In:
 - Delevepment Environments (VSCode, Sublime, SpringToolsSuite4)
 
 Currently Learning:
-- Django
 - JQuery (better understanding of it)
 - Foundation
 - Material UI
+- C
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
