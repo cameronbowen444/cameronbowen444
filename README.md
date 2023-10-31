@@ -1,19 +1,11 @@
-### Hi there 👋
+# Cameron Bowen 👋
 
-I'm currently working on becoming an competitve software engineer/full stack developer in python or javascript
+![image](files://C:/Users/cameronbowen444/Desktop/banner.png)
 
-I've been a developer for a full year now and have completed education at Coding Dojo (BootCamp) and 3 courses on Udemy for Data Structures and Algorithms.
+I'm currently working on specializing my skills as a frontend developer, mastering react and nextjs with javascript and typescript to build incredible applicaitons.
 
-Currently Profienct In: 
-- Python (Flasko + MYSQL | Django + SQLite)
-- Java (Spring + MYSQL)
-- MERN (MongoDB, Express, React, Node)
-- Terminal/Git
-- Delevepment Environments (VSCode, Sublime, SpringToolsSuite4)
+I've been working toward becoming a fully employeed software developer for over 2 years learning full stack developement at Coding Dojo. Currently, I am going ham with mastering my frontend skills through Codecademy, freeCodeCamp, Udemy, youtube tutorials and anywhere I can learn new skills and concepts.
 
-Currently Learning:
-- C 
-- Ruby
 
 ⚡ Fun fact: 
   - I have my Real Estate license and understand california real estate laws, contracts, easments and enrochments, buying and selling as well as I know programming.
