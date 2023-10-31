@@ -1,6 +1,7 @@
 # Cameron Bowen 👋
 
-![image](files://C:/Users/cameronbowen444/Desktop/banner.png)
+![banner](https://github.com/cameronbowen444/cameronbowen444/assets/94093877/f4750ac3-7be5-4054-acca-47fb892e43c5)
+
 
 I'm currently working on specializing my skills as a frontend developer, mastering react and nextjs with javascript and typescript to build incredible applicaitons.
 
