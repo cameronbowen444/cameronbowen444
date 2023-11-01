@@ -9,17 +9,16 @@ I've been working toward becoming a fully employeed software developer for over 
 
 
 ⚡ Fun fact: 
-  - I have my Real Estate license and understand california real estate laws, contracts, easments and enrochments, buying and selling as well as I know programming.
-
+  - I have my Real Estate license in California.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 How to reach me: 
-Phone (818.292.7352) 
-Email (cameronbowen555@gmail.com) 
+- Phone (818.292.7352) 
+- Email (cameronbowen555@gmail.com) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**I'm currently looking to meet others in the industry of software developement, colaborating with other professionals, and working at start up.**
+** I'm currently looking to meet others in the industry of software developement, colaborating with other professionals, and am employable under any type of arrangement as a developer to gain more experience. **
 
 
 <!--
