@@ -1,15 +1,14 @@
 # Cameron Bowen 👋
 
-![banner](https://github.com/cameronbowen444/cameronbowen444/assets/94093877/f4750ac3-7be5-4054-acca-47fb892e43c5)
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/6b45234b-0571-4d74-8755-3cf3c0265910" />
 
 
-I'm currently working on specializing my skills as a frontend developer, mastering react and nextjs with javascript and typescript to build incredible applicaitons.
+Computer Science student at CSUN (transfer from Pierce College), graduating 2027, with 4+ years of hands-on experience in software development.
+Completed Coding Dojo Bootcamp (2022) with full-stack training across MERN, Java/Spring, and Python (Flask & Django).
 
-I've been working toward becoming a fully employeed software developer for over 2 years learning full stack developement at Coding Dojo. Currently, I am going ham with mastering my frontend skills through Codecademy, freeCodeCamp, Udemy, youtube tutorials and anywhere I can learn new skills and concepts.
+Currently focused on React, Next.js, TypeScript, Python Programming, C++ for lower level applications, and building modern, animated web applications, with a strong foundation in data structures, systems, and backend development.
 
-
-⚡ Fun fact: 
-  - I have my Real Estate license in California.
+Actively building real-world projects and pursuing internships in software engineering.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📫 How to reach me: 
@@ -18,9 +17,6 @@ I've been working toward becoming a fully employeed software developer for over 
 - Email (cameronbowen555@gmail.com) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-** I'm currently looking to meet others in the industry of software developement, colaborating with other professionals, and am employable under any type of arrangement as a developer to gain more experience. **
-
 
 <!--
 **cameronbowen444/cameronbowen444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
